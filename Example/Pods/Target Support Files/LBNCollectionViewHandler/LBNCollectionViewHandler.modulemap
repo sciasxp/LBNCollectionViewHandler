@@ -1,0 +1,6 @@
+framework module LBNCollectionViewHandler {
+  umbrella header "LBNCollectionViewHandler-umbrella.h"
+
+  export *
+  module * { export * }
+}

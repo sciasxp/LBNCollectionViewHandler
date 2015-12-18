@@ -1,0 +1,14 @@
+PODS:
+  - LBNCollectionViewHandler (0.1.0)
+
+DEPENDENCIES:
+  - LBNCollectionViewHandler (from `../`)
+
+EXTERNAL SOURCES:
+  LBNCollectionViewHandler:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LBNCollectionViewHandler: d4049c3af8ed1928569735bbd06dc75702d96241
+
+COCOAPODS: 0.39.0

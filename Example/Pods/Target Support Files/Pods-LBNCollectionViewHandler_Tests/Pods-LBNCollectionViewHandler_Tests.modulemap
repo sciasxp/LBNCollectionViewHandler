@@ -1,0 +1,6 @@
+framework module Pods_LBNCollectionViewHandler_Tests {
+  umbrella header "Pods-LBNCollectionViewHandler_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
